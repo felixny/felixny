@@ -1,7 +1,7 @@
 # Hi there, I'm Felix Nampanya! 👋
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-felixny.github.io-blue?style=for-the-badge&logo=github)](https://felixny.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-felixny-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/felixny)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-felixny-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/felix-n-6790b2ba)
 [![Email](https://img.shields.io/badge/Email-felixynx@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:felixynx@gmail.com)
 
 ## 🚀 About Me
