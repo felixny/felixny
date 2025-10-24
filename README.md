@@ -17,9 +17,9 @@
 ---
 
 ### 📈 GitHub Stats
-![Felix's GitHub stats](https://github-readme-stats.vercel.app/api?username=felixny&show_icons=true&theme=radical)
+![Felix's GitHub stats](https://github-readme-stats.vercel.app/api?username=felix-ny&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felixny&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felix-ny&layout=compact&theme=radical)
 
 ---
 
