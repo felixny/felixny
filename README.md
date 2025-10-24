@@ -16,10 +16,16 @@
 
 ---
 
-### 📈 GitHub Stats
-![Felix's GitHub stats](https://github-readme-stats.vercel.app/api?username=felix-ny&show_icons=true&theme=radical)
+### 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felix-ny&layout=compact&theme=radical)
+![Felix's GitHub stats](https://github-readme-stats.vercel.app/api?username=felix-ny&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=felix-ny&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=felix-ny&theme=tokyonight&hide_border=true)
+
+![Felix's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=felix-ny&theme=tokyo-night&hide_border=true)
+
 
 ---
 
