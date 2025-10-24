@@ -18,8 +18,6 @@
 
 ### 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=felix-ny&layout=compact&theme=tokyonight&hide_border=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=felix-ny&theme=tokyonight&hide_border=true)
 
 ![Felix's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=felix-ny&theme=tokyo-night&hide_border=true)
