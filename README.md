@@ -62,12 +62,6 @@ Real-time collaborative music sessions using Kotlin, Firebase backend, and Graph
 
 [![GitHub](https://img.shields.io/badge/GitHub-View_Project-black?style=for-the-badge&logo=github)](https://github.com/felixny/JukeBot)
 
-## 📈 GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=felix-ny&theme=tokyonight&hide_border=true)
-
-![Felix's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=felix-ny&theme=tokyo-night&hide_border=true)
-
 ## 🏆 Achievements
 
 - 🎓 **4+ years** of professional software development experience
