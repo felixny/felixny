@@ -1,16 +1,14 @@
-# Hi there, I'm Felix! 👋
+# Felix N 👋
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-felixny.github.io-blue?style=for-the-badge&logo=github)](https://felixny.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-felixny-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/felix-n-6790b2ba)
-[![Email](https://img.shields.io/badge/Email-felixynx@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:felixynx@gmail.com)
+[![Email](https://img.shields.io/badge/Email-felixynx%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:felixynx@gmail.com)
 
-## 🚀 About Me
+**Boston, MA** • Software Engineer • Open to opportunities
 
-I'm a passionate **Software Engineer** with 4+ years of experience in full-stack development, specializing in **Android**, **Frontend**, and **Backend** technologies. I love building elegant solutions with modern technologies and creating seamless user experiences.
-
-**📍 Location:** Boston, MA  
-**💼 Status:** Available for opportunities  
-**🎯 Focus:** Mobile & Web Development, Cloud Technologies
+## About
+Software engineer with 4+ years of experience building Android apps and full-stack web products.  
+I focus on clean UX, strong architecture, and shipping stable features.
 
 ## 🛠️ Tech Stack
 
@@ -36,59 +34,6 @@ I'm a passionate **Software Engineer** with 4+ years of experience in full-stack
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
-## 🎯 Featured Projects
-
-### 🧳 Travel Bucket List & Info Hub
-A full-stack web application for managing travel bucket lists with destination tracking, photo management, and travel planning features.
-
-**Tech Stack:** React, TypeScript, Node.js, Express, Supabase, AWS S3, Tailwind CSS  
-**Features:** Modern glass morphism UI, AWS S3 integration, external API integrations
-
-[![GitHub](https://img.shields.io/badge/GitHub-View_Project-black?style=for-the-badge&logo=github)](https://github.com/felixny/travel-bucketlist-app)
-
-### 📊 Crypto Tracker
-A Python application that monitors cryptocurrency prices in real-time, sends email alerts when prices cross predefined thresholds, and generates trend graphs.
-
-**Tech Stack:** Python, Pandas, Matplotlib, Requests, SMTP, CoinGecko API  
-**Features:** Real-time monitoring, email alerts, historical data storage, trend analysis
-
-[![GitHub](https://img.shields.io/badge/GitHub-View_Project-black?style=for-the-badge&logo=github)](https://github.com/felixny/crypto-tracker)
-
-### 🎵 JukeBot Music Player
-Real-time collaborative music sessions using Kotlin, Firebase backend, and GraphQL APIs, enabling synchronized group playlists.
-
-**Tech Stack:** Android, Kotlin, Firebase, GraphQL, React, Real-time  
-**Features:** Cross-platform control, synchronized playlists, real-time collaboration
-
-[![GitHub](https://img.shields.io/badge/GitHub-View_Project-black?style=for-the-badge&logo=github)](https://github.com/felixny/JukeBot)
-
-## 🏆 Achievements
-
-- 🎓 **4+ years** of professional software development experience
-- 🚀 **Full-stack expertise** across mobile, web, and backend technologies
-- ☁️ **Cloud-native** development with AWS and Firebase
-- 🔄 **Cross-platform** development for maximum reach
-- 📱 **Mobile-first** approach with responsive design principles
-
-## 🌟 What I'm Working On
-
-- 🔍 Exploring **AI/ML integration** in mobile applications
-- 🌐 Building **scalable microservices** architecture
-- 📱 Developing **cross-platform** solutions with React Native
-- ☁️ Advancing **cloud-native** development practices
-
-## 🤝 Let's Connect!
-
-I'm always interested in discussing new opportunities, collaborating on interesting projects, or just having a chat about technology!
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Site-blue?style=for-the-badge&logo=github)](https://felixny.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/felix-n-6790b2ba)
-[![Email](https://img.shields.io/badge/Email-Get_in_Touch-red?style=for-the-badge&logo=gmail)](mailto:felixynx@gmail.com)
-
----
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=felixny&style=for-the-badge&color=blue" alt="Profile Views" />
 </div>
-
-*"Building elegant solutions with modern technologies"* ✨
