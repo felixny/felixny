@@ -28,7 +28,7 @@ I focus on clean UX, maintainable architecture, reliable releases, and practical
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-Also worked with HTML, CSS, responsive UI, reusable components, routing, forms, and API-backed frontend flows.
+
 
 ### Backend & APIs
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -37,7 +37,7 @@ Also worked with HTML, CSS, responsive UI, reusable components, routing, forms, 
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-Also worked with Java backend services, C#/.NET APIs, API integrations, validation, debugging, and production support.
+
 
 ### Databases & Cloud
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -47,7 +47,6 @@ Also worked with Java backend services, C#/.NET APIs, API integrations, validati
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-Also worked with SQL queries, schema design, data validation, Firebase, Redis, Docker, CI/CD, and GitHub Actions.
 
 ### Testing & Tools
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
