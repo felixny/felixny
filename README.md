@@ -10,7 +10,7 @@
 
 ## About
 
-Software engineer with experience building Android apps, full-stack web products, backend APIs, data pipelines, and automation tools. I focus on clean UX, maintainable architecture, reliable releases, and practical product delivery. Strong background in grocery and retail technology, regulated mobile environments, and SaaS platform development.
+Software engineer with experience building mobile apps, full-stack web products, backend APIs, data pipelines, and automation tools. I focus on clean UX, maintainable architecture, reliable releases, and practical product delivery. Strong background in grocery and retail technology, regulated mobile environments, and SaaS platform development.
 
 ---
 
